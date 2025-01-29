@@ -1,0 +1,64 @@
+{
+    "terminal.integrated.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.commandCenter": true,
+    "terminal.integrated.cursorStyle": "line",
+    "prettier.bracketSameLine": true,
+    "prettier.tabWidth": 4,
+    "prettier.semi": false,
+    "prettier.trailingComma": "none",
+    "prettier.bracketSpacing": true,
+    "prettier.singleAttributePerLine": false,
+    "prettier.singleQuote": true,
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.colorCustomizations": {
+        "[One Dark Pro Darker]": {
+            "editor.background": "#1f2225",
+            "terminal.background": "#1f2225",
+            "menu.background": "#1f2225",
+            "badge.background": "#1f2225",
+            "panel.background": "#1f2225",
+            "sideBar.background": "#1f2225",
+            "titleBar.activeBackground": "#1f2225",
+            "activityBar.background": "#1f2225",
+            "tab.activeBackground": "#35393f"
+        }
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1500,
+    "files.trimTrailingWhitespace": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "accessibility.signals.taskCompleted": {
+        "sound": "on"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "database-client.autoSync": true,
+    "remote.autoForwardPortsSource": "hybrid"
+}
