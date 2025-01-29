@@ -107,4 +107,27 @@ Alternatively, if you want to install all extensions via the terminal, run:
 cat extensions.txt | xargs -L 1 code --install-extension
 ```
 
+---
 
+### Custom Keybindings
+
+These are some useful keybindings configured for a more efficient workflow:
+
+- ⌨️ **Editor Commands**
+  - `Ctrl+Tab`: Delete the current line.
+  - `Ctrl+Shift+K`: (Removed default delete line binding).
+  - `Ctrl+Shift+C`: Block comment.
+  - `Ctrl+Shift+X`: Toggle line comment.
+
+- 🖥️ **Terminal Shortcuts**
+  - `Ctrl+Shift+T`: Open a new terminal.
+  - `Ctrl+Shift+T` (when terminal is focused): Split terminal.
+  - `Ctrl+T`: Toggle terminal visibility.
+  - `Ctrl+Shift+5`: (Removed default split terminal binding).
+  - `Ctrl+Shift+\``: (Removed default new terminal binding).
+
+- 🔄 **Other Changes**
+  - `Ctrl+Tab`: (Removed quick switch between recent editors).
+  - `Ctrl+Shift+X`: (Removed extensions view binding).
+  - `Ctrl+Shift+T`: (Removed reopen closed editor binding).
+  
